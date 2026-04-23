@@ -1,0 +1,2 @@
+4.13 Since we are going through a repitiion process that terminates based on what the user enters it is best to use a while iteration statement. The appopriate iteration that would be used to calculate the factorial of 5 would be a sentinel loop process because it only ends when the user input's reaches 0 which we dont know the starting point.
+

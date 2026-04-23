@@ -1,0 +1,4 @@
+4.11 When dividing an integer by another in java, it is categorized into two which is the quotient and the remainder which can be called the factorial also. so when dividing, the quotient of the divided is saved as the output and the remainder is discarded. in a case whereby the remainder is needed also u change the arithmetic expression to print out the remainder.
+
+
+

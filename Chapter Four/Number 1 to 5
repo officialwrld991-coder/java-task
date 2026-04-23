@@ -1,0 +1,9 @@
+4.10 If single selection statement is a conditional statement that are basically used to set conditions for your variables but they are not iterable unlike the while iteration statement which is used to monitor the number of times a variable iterate. but the common similarities that they both have is that they are both statement that can be used to set conditions.
+
+4.11 When dividing an integer by another in java, it is categorized into two which is the quotient and the remainder which can be called the factorial also. so when dividing, the quotient of the divided is saved as the output and the remainder is discarded. in a case whereby the remainder is needed also u change the arithmetic expression to print out the remainder.
+
+4.12 Control Statement can be used multiple times when you are having a lot of conditions to meet and choices. So in that case, a multiple or combined control statement is needed to account for each conditions.
+
+4.13 Since we are going through a repitiion process that terminates based on what the user enters it is best to use a while iteration statement. The appopriate iteration that would be used to calculate the factorial of 5 would be a sentinel loop process because it only ends when the user input's reaches 0 which we dont know the starting point.
+
+
